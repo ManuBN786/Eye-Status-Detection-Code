@@ -19,7 +19,7 @@ More details about the code and function are written as comments in the .m files
 
 Known errors: You might get the error: 'Unable to locate decompressor to decompress video stream' when trying to run 'ExtractMovie' function.
 The meaning is that your computer is lacking the appropiate Video Codec for the AVI files.
-In this case - You'll have to install MJPEG Codec in order to run the program (You can Gooooogle it and find, like I did :-))
+In this case - You'll have to install MJPEG Codec in order to run the program (Please Google it)
 
 ---------------------------------------------------------------------------------
 
